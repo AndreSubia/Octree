@@ -1,4 +1,4 @@
-# Octree
+# A simple Octree implementation in JS with [THREE.js WebGL library.](https://threejs.org/)
 Octree [100x100x100] with 30 points, 4 points per octant.
 ![30p](https://user-images.githubusercontent.com/21184536/66131788-a87d3880-e5b9-11e9-9b45-f491b63acc14.png)
 Query: white points.
